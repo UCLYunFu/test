@@ -1,3 +1,0 @@
-phpinfo();
-
-//add new content
